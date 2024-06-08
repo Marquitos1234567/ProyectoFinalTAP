@@ -327,9 +327,12 @@ Para utilizar este componente en tu proyecto, sigue estos pasos:
    ![Agregar desde JAR 3](Anexos/imagen5.png)
 
 ## Funcionamiento
-¡Descubre cómo funciona los componentes visuales!
+1. Ingresamos los datos del alumno que serán su número de control y contraseña.
+![Agregar desde JAR 1](Anexos/imagen6.png)
 
-Haz clic para ver el video ahora mismo ---> https://youtu.be/4z0TU_1Falw?si=a970fqQfo0C7xRFf.
+2. Desde el menú podemos ver los distintas opciones del usuario.
+![Agregar desde JAR 1](Anexos/imagen6.png)
+![imagen7](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/d42d9373-e5c7-4b9a-8cce-74d139c42330)
 
 
 ## Autores
