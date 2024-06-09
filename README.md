@@ -143,8 +143,8 @@ Con la clase `passwordfield` los desarrolladores pueden crear campos de contrase
 |--------|--------|-------------------------|-------------|
 | `setLabelText(String labelText)` | ninguno | `labelText`: El texto de la etiqueta. | Establece la etiqueta de texto que se mostrará encima del campo de contraseña. |
 | `setLineColor(Color lineColor)` | ninguno | `lineColor`: El color de la línea. | Establece el color de la línea que aparece debajo del campo de contraseña. |
-| `getText()` | 'String' | Ninguno | Devuelve el texto actualmente ingresado en el campo de contraseña. |
-| `setText(String text)` | Ninguno | `text`: El texto que se establecerá. | Devuelve el texto actualmente ingresado en el campo de contraseña. |
+| `getText()` | 'String' | void | Devuelve el texto actualmente ingresado en el campo de contraseña. |
+| `setText(String text)` | String | `text`: El texto que se establecerá. | Devuelve el texto actualmente ingresado en el campo de contraseña. |
 
 ---
 
@@ -162,8 +162,8 @@ Con la clase `passwordfield` los desarrolladores pueden crear campos de contrase
 #### Métodos
 | Nombre                    | Tipo de Dato que Retorna | Tipo de dato que recibe                    | Descripción                                                                                                |
 | ------------------------- | ------------------------ | ------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
-| `setLabelText(String labelText)`    | Ninguno                  | `labelText` | Establece la etiqueta de texto que se mostrará encima del campo de texto.                              |
-| `setLineColor(Color lineColor)`                   | Ninguno                 |  `lineColor`                           | Establece el color de la línea que aparece debajo del campo de texto.              |
+| `setLabelText(String labelText)`    | void                  | `labelText` | Establece la etiqueta de texto que se mostrará encima del campo de texto.                              |
+| `setLineColor(Color lineColor)`                   | void                 |  `lineColor`                           | Establece el color de la línea que aparece debajo del campo de texto.              |
 | `setText` | Ninguno                | `text`           | Establece el texto del campo de texto y realiza animaciones según sea necesario. |
 
 
@@ -327,13 +327,32 @@ Para utilizar este componente en tu proyecto, sigue estos pasos:
    ![Agregar desde JAR 3](Anexos/imagen5.png)
 
 ## Funcionamiento
-1. Ingresamos los datos del alumno que serán su número de control y contraseña.
-![Agregar desde JAR 1](Anexos/imagen6.png)
+Ingresamos los datos del alumno que serán su número de control y contraseña.
+![imagen6](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/83621850-3fa2-43fa-a276-306d5c307736)
+Desde el menú podemos ver los distintas opciones del usuario.
 
-2. Desde el menú podemos ver los distintas opciones del usuario.
-![Agregar desde JAR 1](Anexos/imagen6.png)
 ![imagen7](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/d42d9373-e5c7-4b9a-8cce-74d139c42330)
-
+La actividad actual, donde podemos descargar nuestro horario en formato PDF.
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/4d647ec2-caad-4fc4-8e66-d528cfa52a99)
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/73018eca-3610-4299-91af-8a3c5070571b)
+El cuál se almacena en nuestra carpeta de decargas.
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/141911f8-6f84-4779-9518-e22a5a635c1d)
+En el caso de no pertenecer a alguna actividad nos mostrará el siguiente mensaje:
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/adb7de63-a66d-4aa8-9074-d2ee0e165377)
+En el apartado de unirse a actvidad el usuario puede selecionar la actividad que desee.
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/594983e1-39b2-4be0-94c2-4e05e4a8fd4b)
+Al presionar el botón incribirse nos unimos en la actividad y el horario será enviado a su correo. 
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/d9feba39-e4b1-4077-ac43-8cc7e72c0af8)
+Aquí algunos ejemplos:
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/71f8c5b1-a4fb-4193-823c-00756e0a69e8)
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/7bd44fe7-6b7a-4649-bdd6-1b74ebd3df64)
+Al pasar el mouse por el logo del usuario podemos cambiar la contraseña y cerrar sesión: 
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/0e674fa6-38af-4b88-9a8f-f719200dd66e)
+Tendremos que ingresar nuestra contraseña anterior y la nueva.
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/a4258ca6-e7ad-4f53-ad0b-a9677e158168)
+Cerramos sesión y comprobamos.
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/f7b93cb7-3d57-4c16-a502-b1150eee1948)
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/317ab55a-f9b5-4304-aa93-28de94b7dbbd)
 
 ## Autores
 + Cuevas Estevez Marcos Gabriel - Estudiante del ITO 
