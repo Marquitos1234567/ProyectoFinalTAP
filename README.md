@@ -173,20 +173,20 @@ Con la clase `passwordfield` los desarrolladores pueden crear campos de contrase
 public login(): Constructor que inicializa la interfaz de inicio de sesión y configura los componentes visuales como los campos de texto y los botones.
 ### Métodos Públicos:
 
-public static void main(String args[]): Método principal que inicia la aplicación.
-private void initComponents(): Método generado automáticamente que inicializa todos los componentes de la interfaz de usuario.
-private void checkCMouseClicked(java.awt.event.MouseEvent evt): Método que maneja el evento de clic en el checkbox para mostrar u ocultar la contraseña.
-private void registrarseMouseClicked(java.awt.event.MouseEvent evt): Método que maneja el evento de clic en el enlace "Registrarse".
-private void seccionAMouseClicked(java.awt.event.MouseEvent evt): Método que maneja el evento de clic en la sección de alumno.
-private void seccionBMouseClicked(java.awt.event.MouseEvent evt): Método que maneja el evento de clic en la sección de docente.
-private void seccionCMouseClicked(java.awt.event.MouseEvent evt): Método que maneja el evento de clic en la sección de administrador.
-private void ingresarMouseClicked(java.awt.event.MouseEvent evt): Método que maneja el evento de clic en el botón de "Ingresar".
-private void ingresarMouseClicked(): Método que maneja el evento de clic en el botón de "Ingresar" cuando se presiona la tecla Enter.
+public static void main(String args[]): Método principal que inicia la aplicación. Tipo de dato que retorna: void.
+private void initComponents(): Método generado automáticamente que inicializa todos los componentes de la interfaz de usuario. Tipo de dato que retorna: void.
+private void checkCMouseClicked(java.awt.event.MouseEvent evt): Método que maneja el evento de clic en el checkbox para mostrar u ocultar la contraseña. Tipo de dato que retorna: void.
+private void registrarseMouseClicked(java.awt.event.MouseEvent evt): Método que maneja el evento de clic en el enlace "Registrarse". Tipo de dato que retorna: void.
+private void seccionAMouseClicked(java.awt.event.MouseEvent evt): Método que maneja el evento de clic en la sección de alumno. Tipo de dato que retorna: void.
+private void seccionBMouseClicked(java.awt.event.MouseEvent evt): Método que maneja el evento de clic en la sección de docente. Tipo de dato que retorna: void.
+private void seccionCMouseClicked(java.awt.event.MouseEvent evt): Método que maneja el evento de clic en la sección de administrador. Tipo de dato que retorna: void.
+private void ingresarMouseClicked(java.awt.event.MouseEvent evt): Método que maneja el evento de clic en el botón de "Ingresar". Tipo de dato que retorna: void.
+private void ingresarMouseClicked(): Método que maneja el evento de clic en el botón de "Ingresar" cuando se presiona la tecla Enter. Tipo de dato que retorna: void.
 Atributos:
 
-private consultas validar: Objeto de la clase consultas utilizado para realizar validaciones de inicio de sesión.
-public static String usuario: Variable estática que almacena el tipo de usuario (alumno, docente, administrador).
-public static String ncontrol: Variable estática que almacena el número de control del usuario.
+private consultas validar: Objeto de la clase consultas utilizado para realizar validaciones de inicio de sesión. Tipo de dato que retorna: void.
+public static String usuario: Variable estática que almacena el tipo de usuario (alumno, docente, administrador). Tipo de dato que retorna: String.
+public static String ncontrol: Variable estática que almacena el número de control del usuario. Tipo de dato que retorna: String.
 
 ### Actividad actual alumno
 ### Paquete y Clase Principal:
@@ -195,7 +195,7 @@ El código está contenido en el paquete Vista.
 La clase principal se llama menuAlumno, que representa el menú principal para los alumnos.
 Atributos de Clase:
 
-private consultas consultar;: Objeto de la clase consultas utilizado para realizar consultas a la base de datos.
+private consultas consultar;: Objeto de la clase consultas utilizado para realizar consultas a la base de datos. Tipo de dato que retorna: void.
 private login metodo;: Objeto de la clase login utilizado para acceder a la información de inicio de sesión del alumno.
 
 ### Constructor:
@@ -452,12 +452,12 @@ Al regresar al menú tenemos la opción de generar estadísticas, al hacer clic 
 ![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/c130c25b-21cd-4b7a-9bd3-27cbebe9d411)
 ![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/ab0ef122-3bd6-41b2-9e5e-8c5356f6fb7c)
 ![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/13b083ec-63b2-4e05-9f2b-9ed0aaa0ada7)
-![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/dca81e8e-de5d-4220-8c57-f29083eaec89)
-
-
-
-
-
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/b0ad0da7-98d0-464f-9210-c34407f265a6)
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/0399f552-b6b6-46a6-81dc-cbbf54b99422)
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/5ac953bc-6f04-4a9f-a385-e0ef883ed1cc)
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/d40284e1-6c35-4b9b-b21a-33e1a10cbe81)
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/5218de9d-f545-4fb0-bf61-fc06dc808f54)
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/2bb043e3-e437-41d0-a082-b2e6b5c2035c)
 ## Autores
 + Cuevas Estevez Marcos Gabriel - Estudiante del ITO 
 + Ruiz Garcia Itzi Mariana - Estudiante del ITO  
