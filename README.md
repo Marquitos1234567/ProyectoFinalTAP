@@ -431,7 +431,31 @@ Al regresar al menú tenemos la opción de generar estadísticas, al hacer clic 
 ![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/512642cb-97b5-470f-a027-075569013eb8)
 ![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/4c1d3c56-01ce-4745-80a3-1f551e52fc16)
 ![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/71eefb1c-d76e-4c18-a6ad-5b33f775e88f)
-![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/3cfabbce-96ba-4837-b510-489a11217f73)
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/40b09c71-f626-4fce-b6ba-d389b5964f6a)
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/8ef3248c-53dc-471f-b807-aaada7f3d31f)
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/6673af1b-a194-4c27-8f9a-5e55fad3b210)
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/5b4cf84e-1b69-452d-aa3e-b6d786997cd4)
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/0e536946-90fe-4c3d-9e1c-79d0ed647b0d)
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/0f66d106-0c0f-4066-9f49-9c075afdebe4)
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/d6746214-0cb6-4330-b560-536ae62347a0)
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/09c57139-598f-4759-94c8-f089a2a09ee7)
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/b90a943f-4497-47ce-aad8-870dc870e1b1)
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/f3898c47-61d8-42ad-ae6b-10b6493c686b)
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/31ba19b3-ce3b-4683-a1a0-dee118be87d9)
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/b8e82ef9-a5b0-42ef-bc3c-65fd75d32f7a)
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/5ea617af-b47b-4df2-8080-6b6639bf7650)
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/2da80d92-776c-486e-915a-1be867297e9e)
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/ccda1c3e-1576-47fe-b68b-804dc8934bea)
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/b1b36de9-9060-4a26-a009-b68cf50a6629)
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/7dca9f0e-ba72-4b30-9d9b-4f9d38abaa4b)
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/98d7549d-28e6-4094-a36d-65e5685f1eb6)
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/c130c25b-21cd-4b7a-9bd3-27cbebe9d411)
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/ab0ef122-3bd6-41b2-9e5e-8c5356f6fb7c)
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/13b083ec-63b2-4e05-9f2b-9ed0aaa0ada7)
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/dca81e8e-de5d-4220-8c57-f29083eaec89)
+
+
+
 
 
 ## Autores
