@@ -419,15 +419,20 @@ Para evaluar a los alumnos uno por uno será necesario seleccionarlo haciendo cl
 
 Una vez que todos los alumnos han sido evaluados podremos guardar los cambios con el botón azul de la esquina inferior derecha 
 ![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/d706b58e-8ec3-4266-ac4a-4b636d8d102c)
+
 Antes de guardarse los cambios nos saldrá un aviso donde nos pregunta si estamos seguros de guardar los cambios pues la acción es irreversible 
 ![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/a234a61b-15ac-4071-96e4-aa6e5b4e0023)
 
-Si aun no estamos seguros damos clic en no y podremos seguir evaluando a los alumnos o corregir la evaluación, si ya estamos seguros damos clic en si y nos avisará que se guardaron los cambios exitosamente  
+Si aun no estamos seguros damos clic en no y podremos seguir evaluando a los alumnos o corregir la evaluación, si ya estamos seguros damos clic en si y nos avisará que se guardaron los cambios exitosamente
 ![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/754d5077-11e3-4999-a39d-e584a40ea552)
 
 Generar estadísticas  
 Al regresar al menú tenemos la opción de generar estadísticas, al hacer clic en esta opción tendremos que seleccionar el departamento de cual necesitamos sus estadísticas 
 ![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/512642cb-97b5-470f-a027-075569013eb8)
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/4c1d3c56-01ce-4745-80a3-1f551e52fc16)
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/71eefb1c-d76e-4c18-a6ad-5b33f775e88f)
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/3cfabbce-96ba-4837-b510-489a11217f73)
+
 
 ## Autores
 + Cuevas Estevez Marcos Gabriel - Estudiante del ITO 
