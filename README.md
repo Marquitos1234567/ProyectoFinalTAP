@@ -353,10 +353,81 @@ Tendremos que ingresar nuestra contraseña anterior y la nueva.
 Cerramos sesión y comprobamos.
 ![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/f7b93cb7-3d57-4c16-a502-b1150eee1948)
 ![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/317ab55a-f9b5-4304-aa93-28de94b7dbbd)
+
 Antes de poder iniciar sesión se debe de estar registrado, proceso que solo puede hacer por si solo el alumno, en caso del docente un administrador debe de
 registrarlo y el propio administrador ya debe de registrarse con anticipación directamente en la base de datos. En la siguiente pantalla tenemos los campos de
 texto que se tiene que rellenar con nuestros datos reales para poder hacer el registro
 ![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/96305aa1-b915-4763-9ef9-7868fd148d77)
+
+Para asegurarnos de que los datos más importantes, como lo son el número de control y la contraseña, sean validos se muestran avisos en caso de haber ingresado mal algún valor como los siguientes: 
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/bed8dc17-d806-40e3-b89d-dff806b18e37)
+  
+Si sale alguno de estos avisos u otro deberemos de revisar que los datos ingresados sean correctos y corregir en donde haga falta. Si ese no es el caso nuestro registro se completará sin problemas y se nos notificará que hemos sido registrados correctamente y ahora podremos iniciar sesión. 
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/03fa48be-27bb-43c0-895e-1de21723d462)
+  
+Para regresar al login solo debemos de dar clic al botón de cancelar 
+
+La tercera opción del menú es ver las constancias de las actividades que se han cursado y aprobado, en caso de no tener constancias nos dará el aviso 
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/6be695d3-d9eb-490e-b214-df5f213e24f3)
+  
+En caso de si tener actividades cursadas y aprobadas se mostraran en una tabla como la que se ve a continuación  
+ ![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/71fa9769-1438-40f0-b1b2-2164911ca596)
+ 
+En está tabla podremos seleccionar la actividad de la que queramos descargar nuestra constancia: 
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/ae087da9-6c7b-40bd-b51c-fc5ca4535232) 
+
+Una vez que el sistema la descargó nos da el aviso que se descargó correctamente 
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/727b6144-f639-49f6-833c-7a87b5a2351d)
+
+Y la constancia se guardará en formato PDF en las descargas de nuestro equipo
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/a764364e-1345-4231-a0fb-e7da2842c505)
+
+Una vez que ya tenemos nuestros datos de registro proporcionados por el administrador podremos iniciar sesión como docente en la pantalla de login como se muestra a continuación, recordado que debemos de seleccionar el tipo de usuario docente 
+ ![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/49df7860-39b9-4138-9635-af1a8508e15b)
+ 
+Los datos que serán necesarios para nuestro inicio de sesión deberán de ser una clave de trabajo y una contraseña segura, que como ya se menciono debe de proporcionar el administrador dado que el propio docente no puede registrarse a si mismo.  
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/de93a1c1-a79d-4d90-9f63-e56720100351)
+
+Si los datos ingresados son correctos nos avisará y si no son correctos también nos dará el aviso para que corrijamos e iniciemos sesión correctamente 
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/884b058d-2874-4341-b0e6-1965b9c06113)
+   
+Menú 
+Una vez que iniciamos sesión se nos mostrará el menú del docente, el cual podrá: ver las actividades que imparte y generar estadísticas 
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/b46fa573-f38d-471b-a8c0-1b933830b57c)
+
+Al seleccionar la primera opción, ver actividades que imparto, mostrará una tabla con los datos de las actividades que el docente imparte ![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/c8c47032-219e-4e7f-811c-f21a16821917)
+
+Para seleccionar alguna de las acciones de los botones de la parte inferior debemos de seleccionar el grupo con el cursor de lo contrario nos dará el siguiente aviso 
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/5fa4c07b-f54f-4414-bac1-c8e2c5ec780e)
+ 
+Descargar lista de asistencia 
+Si seleccionamos el grupo podremos descargar la lista de asistencia del mismo 
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/e9cd2e9d-443d-400c-b436-a5906554c285)
+
+Nos dará el aviso de que se descargó correctamente 
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/af05fbf8-72a2-4fbc-bf53-c7a2562687c9)
+  
+Y la lista se guardará en formato pdf en las descargas de nuestro equipo 
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/b974b365-5dcd-41c4-8205-f6a0db15035f)
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/da798508-905a-4bba-9e2a-53c6ad862199)
+
+Evaluar alumnos 
+Al seleccionar el grupo también se podrán evaluar los alumnos de inscritos en la actividad durante el periodo escolar cursando  
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/49ee9f87-7335-4b84-b8ec-9a218222187c)
+Para evaluar a los alumnos uno por uno será necesario seleccionarlo haciendo clic sobre el mismo y en la columna de estatus de la tabla se desplegarán dos opciones de estatus, aprobado y no aprobado 
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/25768bda-1f55-418f-880c-1aacbbe20a72)
+
+Una vez que todos los alumnos han sido evaluados podremos guardar los cambios con el botón azul de la esquina inferior derecha 
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/d706b58e-8ec3-4266-ac4a-4b636d8d102c)
+Antes de guardarse los cambios nos saldrá un aviso donde nos pregunta si estamos seguros de guardar los cambios pues la acción es irreversible 
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/a234a61b-15ac-4071-96e4-aa6e5b4e0023)
+
+Si aun no estamos seguros damos clic en no y podremos seguir evaluando a los alumnos o corregir la evaluación, si ya estamos seguros damos clic en si y nos avisará que se guardaron los cambios exitosamente  
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/754d5077-11e3-4999-a39d-e584a40ea552)
+
+Generar estadísticas  
+Al regresar al menú tenemos la opción de generar estadísticas, al hacer clic en esta opción tendremos que seleccionar el departamento de cual necesitamos sus estadísticas 
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/512642cb-97b5-470f-a027-075569013eb8)
 
 ## Autores
 + Cuevas Estevez Marcos Gabriel - Estudiante del ITO 
