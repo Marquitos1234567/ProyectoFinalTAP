@@ -353,6 +353,10 @@ Tendremos que ingresar nuestra contraseña anterior y la nueva.
 Cerramos sesión y comprobamos.
 ![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/f7b93cb7-3d57-4c16-a502-b1150eee1948)
 ![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/317ab55a-f9b5-4304-aa93-28de94b7dbbd)
+Antes de poder iniciar sesión se debe de estar registrado, proceso que solo puede hacer por si solo el alumno, en caso del docente un administrador debe de
+registrarlo y el propio administrador ya debe de registrarse con anticipación directamente en la base de datos. En la siguiente pantalla tenemos los campos de
+texto que se tiene que rellenar con nuestros datos reales para poder hacer el registro
+![image](https://github.com/Marquitos1234567/ProyectoFinalTAP/assets/168498871/96305aa1-b915-4763-9ef9-7868fd148d77)
 
 ## Autores
 + Cuevas Estevez Marcos Gabriel - Estudiante del ITO 
